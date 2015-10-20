@@ -9,4 +9,5 @@ input[type=reset],input[type=submit]{-webkit-appearance:button;cursor:pointer;}b
 body{
 	background: blue;
 	color:white;
+	font-size:48px;
 }
